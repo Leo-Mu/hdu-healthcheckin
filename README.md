@@ -1,5 +1,5 @@
 # hdu-healthcheckin
-杭电每日健康打卡脚本，该脚本用于Hamibot
+杭州电子科技大学每日健康打卡脚本，该脚本用于 Hamibot
 
 ## 使用方法
 
